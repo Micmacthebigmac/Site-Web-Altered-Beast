@@ -1,0 +1,80 @@
+<!doctype html>
+<html>
+	<head>
+	<meta charset="utf-8" />
+	<title>Project Altered Beast</title>
+	<link rel="stylesheet" href="CSS/h1_en_rouge.css" />
+	</head>
+<body>
+<h1 class="Titre">BIENVENUE SUR LE SITE ALTERED BEAST</h1>
+<img src="Photo/Image Couverture.jpg" alt="photo couverture altered beast"><br />
+<h1>Sommaire</h1>
+<ul>
+		<li><a href="#Intro">Intro</a></li>
+		<li><a href="#Transformation">Transformation</a></li>
+		<li><a href="#Histoire">Histoire</a></li>
+		<li><a href="#Aide">Aide</a></li>
+	</ul><br />
+<a id="Intro"><h1>Intro</h1></a><br />
+<p>Project Altered Beast est un jeu développer par <span Class="SEGA">SEGA</span> en 2005, il est le remake du jeu Altered Beast sorti en 1988.<br />
+le Jeu est un Beat them all dévlopper par Sega Wow, le jeu consiste a prendre l' apparence de différentes bêtes afin de vaincre vos ennemies<br/>
+ou d'évoluer dans l' environement</p><br />
+
+<a id="Transformation"><h1>Transformations</h1></a><br />
+<ul>
+		<li><a href="#Le Loup Garou">Le Loup Garou</a></li>
+		<li><a href="#Le Triton">Le triton</a></li>
+		<li><a href="#Le Wendigo">Le Wendigo</a></li>
+		<li><a href="#Le Garuda">Le Garuda</a></li>
+		<li><a href="#Le Minautor">Le Minautor</a></li>
+		<li><a href="#Le Dragon">Le Dragon</a></li>
+		<li><a href="#Le gizzly">Le Grizzly (<span class="BONUS">bonus</span>)</a></li>
+		<li><a href="#Le H.V.N.I">Le H.V.N.I (<span class="BONUS">bonus</span>)</a></li>
+		<li><a href="#Le Tigre Garou">Le tigre Garou (<span class="BONUS">bonus</span>)</a></li>
+</ul><br />
+
+<a id="Le Loup Garou"><h1 class="Transformations">Le Loup Garou</h1>
+	<img src="Photo/Loup_Garou Logo.PNG" alt="Logo Loup Garou">
+	<h2>Combo</h2>
+		<img src="Photo/Loup Garou combo.PNG" alt="Combo loup garou">
+
+
+<a id="Histoire"><h1>Histoire</h1>
+<p class="Histoire"><img src="Photo/Histoire (helicoptère).png" alt="Une Photo Histoire Hélico" class="flottant_right" />Une brume étrange c' est étendu a travers tout la ville aucun être vivant peut y survivre , des membres d' unité survole en avion.</p>
+	<p><img src="Photo/Le_gars.png" alt="Une Photo Du gars dans l' hélico"></p>
+<p class="Histoire">Ces Pilotes avais en possesion une mysterieuse boite avant d' être soudainement attaquer par une créature volante.</p><br />
+	<p class="Histoire"><img src="Photo/La_Boite.png" alt="Boite hélico" class="flottant_right">Après le Crache un homme sortais de celui-ci perdu dans la forêt.</p>
+	<p><img src="Photo/Eric a la naissance (phoque).png" alt="Eric apparation hors boite"></p>
+
+
+
+<a id="Aide"><h1>Aide</h1><br />
+<ul>
+	<li><a href="#Chapitre1"><strong>Chapitre1 (Début du jeu - Prochaine Bête)</strong></a></li>
+</ul>
+
+<a id="chapitre"><h1>Chapitre 1</h1><br />
+<h2>Contenu :</h2>
+<ul>
+
+</ul>
+
+<p class="Déscription_Image">Vous commencez au point de contrôle première chose a faire est d' analyser le document au nord.</p>
+<img src="Photo/Aide chapitre 1 Loup.PNG" alt="Photo Avoir loup" class="flottant_right">
+<p class="Déscription_Image" class="recommencer_text">Ensuite une scène cinématique en suivra et vous vous transformerez en <a href="#Le Loup Garou">loup garou</a>. Ne vous préoccupez pas des combo ou tactique du jeu prennez les base croix pour Sauter tout en attaquant, carrée pour faire des attaque de base et triangle pour une attaque spéciale quand la jauge est pleine.</p>
+<p><img src="Photo/Tuto_Loup_Garou.png" alt="Tuto Loup Garou"></p>
+<p><img src="Photo/Jauge_de_pouvoir.jpg" alt="Jauge de pouvoir"></p>
+<p class="Déscription_Image">Pour continuer Tuer <span class="Important">l' énnemie brillant</span> afin de vous évanouir et déclencher la suite de l' histoire</p>
+<p><img src="Photo/Photo énnemie Brillant.png" alt="image énnemie brillant"></p>
+<p><img src="Photo/Loup Malaise.png" alt="Loup malaise"></p>
+<p class="Déscription_Image">Ensuite appuyer sur starte et suivez le tutoriel.</p>
+<img src="Photo/éric drain tuto.png" alt="tuto drain">
+
+
+	
+
+
+
+
+</body>
+</html>
